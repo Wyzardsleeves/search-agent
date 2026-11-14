@@ -1,0 +1,32 @@
+{
+  "knowledge": {},
+  "organic": [
+    {
+      "link": "https://www.microsoft.com/en-us/investor/investor-information",
+      "source": "Microsoft",
+      "display_link": "https://www.microsoft.com › en-us › investor › investor-...",
+      "title": "Information for Investors",
+      "description": "Microsoft's transfer agent, administers a direct stock purchase plan and a dividend reinvestment plan for the company. at (800) 285-7772,",
+      "snippet_highlighted_words": [
+        "Microsoft's"
+      ],
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABnRSTlMAAAAAAABupgeRAAAAWklEQVR4AWP4FKBEJPrip8wABrV7GOp3EYtGhgWjFoxaMGrBqAXf/OSIRD995CEWVO9hqN1FLBoOYNlnotF3iI7/O4lHQOVL3hONPo9agB2NWjBqwagFoxYAAB2zMZ7bQW2tAAAAAElFTkSuQmCC",
+      "rank": 1,
+      "global_rank": 1
+    },
+    {
+      "link": "https://www.trading212.com/trading-instruments/invest/MSFT.US",
+      "source": "Trading 212",
+      "display_link": "https://www.trading212.com › trading-instruments › M...",
+      "title": "MSFT Stock - Invest in Microsoft, NASDAQ",
+      "description": "View real-time MSFT price charts. .96 Day's range $ 517 . Commission-free investing for everyone",
+      "snippet_highlighted_words": [
+        "MSFT price charts"
+      ],
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAKlBMVEVHcEwAAAAAAAAAAAAAp+EAAAAArusAq+YAHykAbJEAhrUAn9YAU3AAOU2n486VAAAABHRSTlMA9uCR26w5xgAAAKdJREFUKJF9k9kSgCAIRckNt/7/dwspxfU+NAMnsIsEAFpddtKlNLxakI+/dTtmrQa1h2rflfqKwBeJhIDeFfkljGhIcQmZGVzB8MOwgKZqhhl/5vIEE+UTP0eYXTmuHIx5gMUH8idj7OHtPovlJXd3kHOexiRKGYoU9/cChtbsdm0Q0CaXhCdskAtzZ6pCQ1dVrSeKTIXDJdfwvCbHBTuu5nGpT7/DA7U+D7aZJj+1AAAAAElFTkSuQmCC",
+      "rank": 2,
+      "global_rank": 6
+    }
+		...
+  ]
+}
